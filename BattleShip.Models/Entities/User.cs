@@ -1,5 +1,5 @@
 ﻿using BattleShip.Models.Enums;
-using Microsoft.AspNet.Identity.EntityFramework;
+using Microsoft.AspNetCore.Identity;
 
 namespace BattleShip.Models.Entities
 {
