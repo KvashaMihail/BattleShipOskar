@@ -1,0 +1,18 @@
+header {
+  min-height: 64px;
+  background: #1976d2;
+  color: #053b71;
+  padding: 0px 15px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.3);
+  font-family: Consolas;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 64px;
+  display: flex;
+
+  img {
+    width: 52px;
+    height: 52px;
+    margin: 6px 10px 6px 2px;
+  }
+}

@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleShip.Web", "BattleShi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleShip.Configurations", "BattleShip.Configurations\BattleShip.Configurations.csproj", "{CAEEC8FD-656F-47CC-842C-CDC423FB5729}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShip.DataAccess", "BattleShip.DataAccess\BattleShip.DataAccess.csproj", "{B2811EE9-0F11-4995-9A51-67172CAE5025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleShip.DataAccess", "BattleShip.DataAccess\BattleShip.DataAccess.csproj", "{B2811EE9-0F11-4995-9A51-67172CAE5025}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShip.BusinessLogic", "BattleShip.BusinessLogic\BattleShip.BusinessLogic.csproj", "{0B461456-88CD-414D-9952-ED4EA5B54FE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleShip.BusinessLogic", "BattleShip.BusinessLogic\BattleShip.BusinessLogic.csproj", "{0B461456-88CD-414D-9952-ED4EA5B54FE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShip.Models", "BattleShip.Models\BattleShip.Models.csproj", "{5DA5010B-66F7-40D6-BD12-0E755DDC53C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleShip.Models", "BattleShip.Models\BattleShip.Models.csproj", "{5DA5010B-66F7-40D6-BD12-0E755DDC53C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
