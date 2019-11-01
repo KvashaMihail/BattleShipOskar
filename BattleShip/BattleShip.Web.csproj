@@ -27,4 +27,10 @@
     <ProjectReference Include="..\BattleShip.Configurations\BattleShip.Configurations.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="client-app\src\app\_services\" />
+    <Folder Include="client-app\src\app\_models\" />
+    <Folder Include="client-app\src\app\_helpers\" />
+  </ItemGroup>
+
 </Project>
